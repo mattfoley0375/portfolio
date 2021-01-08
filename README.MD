@@ -17,6 +17,8 @@ This webpage gives users access to different projects I have created and provide
 ## Setup/Installation Requirements
 
 * You need a basic pc with internet accesss to open this html
+* Clone the repository to somewhere safe on your desktop
+* Go to the top level of the directory and open index.html in your browser
 
 ## Known Bugs
 
