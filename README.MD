@@ -1,26 +1,26 @@
-#_{Matthew James Foley}_
+# Matthew James Foley
 
-#### _{By Matthew Foley}_
+#### By Matthew Foley
 
 #### A simple portfolio that I look to improve on everday.
 
 ## Techologies Used
 
-*GIT
-*HTML
-*CSS
+* GIT
+* HTML
+* CSS
 
 ## Description
 
-_{This webpage gives users access to different projects I have created and provides information about me and my work experience.}_
+This webpage gives users access to different projects I have created and provides information about me and my work experience.
 
 ## Setup/Installation Requirements
 
-*You need a basic pc with internet accesss to open this html
+* You need a basic pc with internet accesss to open this html
 
 ## Known Bugs
 
-*There are no known bugs so far
+* There are no known bugs so far
 
 ## License
 MIT License
@@ -47,5 +47,5 @@ SOFTWARE.
 
 ## Contact Information
 
-_{mattfoley0375@gmail.com}_
+_mattfoley0375@gmail.com_
 
