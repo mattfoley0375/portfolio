@@ -7,7 +7,7 @@
 
 .box {
   margin: 12px;
-  border: 9px solid #b5bda5 ;
+  border: 9px solid #000000 ;
   background-color: #b5bda5 ;
   padding: 20px;
 }
@@ -26,8 +26,8 @@ h2,h3 {
 }
 
 .list {
-  text-emphasis-color: rgb(97, 4, 4) ;
-  font-size: 20px;
+  text-emphasis-color: rgb(0, 0, 0) ;
+  font-size: 25px;
 }
 
 .column {
@@ -43,5 +43,6 @@ h2,h3 {
 }
 
 body {
-  background-color:rgb(103,119,138)
+  background-color:rgb(103,119,138);
+  font-size: 20px;
 }
