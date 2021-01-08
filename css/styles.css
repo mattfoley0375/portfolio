@@ -5,6 +5,12 @@
   display: block;
 }
 
+.box {
+  margin: 12px;
+  border: 9px solid rgb(247, 223, 10);
+  padding: 20px;
+}
+
 h1 {
   color: rgb(0, 0, 0);
   font-family: 'Franklin Gothic Medium';
@@ -21,3 +27,4 @@ h2,h3 {
 body {
   background-color:#b5bda5
 }
+
