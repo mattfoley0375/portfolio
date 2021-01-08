@@ -31,10 +31,16 @@ h2,h3 {
 }
 
 .column {
-  width: 100px;
-  float: right;
+  width: 600px;
+  float: right
 }
 
+.liza {
+  margin: auto;
+  width: 40%;
+  height: auto;
+  display: block;
+}
 
 body {
   background-color:rgb(103,119,138)
