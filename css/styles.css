@@ -30,13 +30,11 @@ h2,h3 {
   font-size: 20px;
 }
 
-.liza {
-  float:right;
-  margin: auto;
-  height: auto;
-  width: 40%;
-  display: block;
+.column {
+  width: 100px;
+  float: right;
 }
+
 
 body {
   background-color:rgb(103,119,138)
