@@ -4,6 +4,8 @@
 
 #### A simple portfolio that I look to improve on everday.
 
+Direct Link: https://mattfoley0375.github.io/portfolio/
+
 ## Techologies Used
 
 * GIT
