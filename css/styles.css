@@ -46,3 +46,7 @@ body {
   background-color:rgb(103,119,138);
   font-size: 20px;
 }
+
+.DogCaption {
+  text-align: center;
+}
